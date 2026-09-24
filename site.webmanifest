@@ -1,0 +1,12 @@
+{
+  "name": "Made in France & Marion",
+  "short_name": "MIF & Marion",
+  "description": "Concept store de créateurs français et atelier de restauration de tableaux, à Vichy.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f7f2e7",
+  "theme_color": "#33453c",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
