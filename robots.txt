@@ -4,4 +4,4 @@ Disallow: /mentions-legales.html
 Disallow: /confidentialite.html
 Disallow: /cgu.html
 
-Sitemap: https://www.madeinfranceetmarion.fr/sitemap.xml
+Sitemap: https://marionsauvage.fr/sitemap.xml
